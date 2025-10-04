@@ -6,7 +6,7 @@ It performs all basic arithmetic operations with a smooth, modern UI — designe
 🌐 Live Demo
 
 👉 View Live
- <!-- Replace # with your GitHub Pages / Netlify link -->
+ https://dheerajece.github.io/Simple_Calculator_App/
 
 ✨ Features
 
